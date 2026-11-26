@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-expenditure-filling-task-information.trycloudflare.com
-=======
-tribes-reaches-said-amp.trycloudflare.com
->>>>>>> Stashed changes
+chi-architect-marker-stadium.trycloudflare.com

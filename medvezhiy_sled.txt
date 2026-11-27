@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 liverpool-still-had-nutten.trycloudflare.com
-=======
-ben-curves-penn-vampire.trycloudflare.com
->>>>>>> Stashed changes
